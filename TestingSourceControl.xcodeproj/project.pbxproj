@@ -55,9 +55,9 @@
 			children = (
 				076CB5492BF8515B00E03E5F /* TestingSourceControlApp.swift */,
 				076CB54B2BF8515B00E03E5F /* ContentView.swift */,
+				076CB5572BF85EA800E03E5F /* HomeView.swift */,
 				076CB54D2BF8515D00E03E5F /* Assets.xcassets */,
 				076CB54F2BF8515D00E03E5F /* Preview Content */,
-				076CB5572BF85EA800E03E5F /* HomeView.swift */,
 			);
 			path = TestingSourceControl;
 			sourceTree = "<group>";
