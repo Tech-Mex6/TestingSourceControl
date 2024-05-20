@@ -12,6 +12,7 @@
 		076CB54E2BF8515D00E03E5F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 076CB54D2BF8515D00E03E5F /* Assets.xcassets */; };
 		076CB5512BF8515D00E03E5F /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 076CB5502BF8515D00E03E5F /* Preview Assets.xcassets */; };
 		076CB5582BF85EA800E03E5F /* HomeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 076CB5572BF85EA800E03E5F /* HomeView.swift */; };
+		076CB55A2BFBFC5800E03E5F /* ExploreView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 076CB5592BFBFC5800E03E5F /* ExploreView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -21,6 +22,7 @@
 		076CB54D2BF8515D00E03E5F /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		076CB5502BF8515D00E03E5F /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		076CB5572BF85EA800E03E5F /* HomeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeView.swift; sourceTree = "<group>"; };
+		076CB5592BFBFC5800E03E5F /* ExploreView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExploreView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -55,6 +57,7 @@
 			children = (
 				076CB5492BF8515B00E03E5F /* TestingSourceControlApp.swift */,
 				076CB54B2BF8515B00E03E5F /* ContentView.swift */,
+				076CB5592BFBFC5800E03E5F /* ExploreView.swift */,
 				076CB5572BF85EA800E03E5F /* HomeView.swift */,
 				076CB54D2BF8515D00E03E5F /* Assets.xcassets */,
 				076CB54F2BF8515D00E03E5F /* Preview Content */,
@@ -142,6 +145,7 @@
 			files = (
 				076CB5582BF85EA800E03E5F /* HomeView.swift in Sources */,
 				076CB54C2BF8515B00E03E5F /* ContentView.swift in Sources */,
+				076CB55A2BFBFC5800E03E5F /* ExploreView.swift in Sources */,
 				076CB54A2BF8515B00E03E5F /* TestingSourceControlApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
