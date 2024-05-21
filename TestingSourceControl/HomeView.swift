@@ -9,7 +9,7 @@ import SwiftUI
 
 struct HomeView: View {
     
-    @State private var title: String = "Hello World"
+    @State private var title: String = "Hello Earthlings!"
     
     var body: some View {
         Text("Screen 2")
