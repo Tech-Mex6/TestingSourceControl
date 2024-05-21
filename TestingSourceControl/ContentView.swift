@@ -18,6 +18,9 @@ struct ContentView: View {
             Button("Tap Me!") {
                 
             }
+            Button("Subscribe") {
+                
+            }
             Rectangle()
         }
         .padding()
