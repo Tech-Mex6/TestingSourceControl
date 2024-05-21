@@ -13,7 +13,7 @@ struct ContentView: View {
             Image(systemName: "flame.fill")
                 .font(.largeTitle)
                 .foregroundStyle(.tint)
-            Text("Swifty thinking!")
+            Text("Swiftul thinking!!!")
             
             Button("Tap Me!") {
                 
